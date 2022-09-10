@@ -1,6 +1,6 @@
 from scapy.all import ARP, Ether, srp
 
-ip_addr = "192.168.100.1/24"
+ip_addr = "" #put the ip range ... e.g : 192.100.1.1/24 
 
 detection_connected = ARP(pdst=ip_addr)
 
