@@ -1,4 +1,4 @@
-# Connected-Devise-Checker
+# Connected-Device-Checker
 
 ### This python script will detect all connected IP/Mac over a network.
 
